@@ -1,0 +1,52 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#pulldownad_list > td
+{
+	text-align: center;
+}
+
+#sub_error
+{
+	display: none;
+}
+
+.pulldownad_onediv_template
+{
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+}
+
+.pulldownad_multiplediv_template
+{
+	width: 100%;
+	height: 100%;
+}
+
+.pulldownad_template_vertical_panel
+{
+	width: 100%;
+	float: left;
+	height: 100%;
+	padding: 5px;
+}
+
+.pulldownad_template_vertical_square_panel
+{
+	width: 100%;
+	height: 50%;
+}
+
+.pulldownad_template_horizontal_panel
+{
+	height: 50%;
+	width: 100%;
+	padding: 5px;
+}
+
+.pulldownad_template_horizontal_square_panel
+{
+	height: 100%;
+	width: 50%;
+	float: left;
+}
